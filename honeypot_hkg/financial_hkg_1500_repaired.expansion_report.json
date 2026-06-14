@@ -1,0 +1,14 @@
+{
+  "domain": "financial",
+  "input": "honeypot_hkg/financial_hkg_500_repaired.json",
+  "output": "honeypot_hkg/financial_hkg_1500_repaired.json",
+  "nodes": 1500,
+  "seed_nodes": 500,
+  "generated_variants": 1000,
+  "d_min": 3,
+  "seed": 42,
+  "min_out_degree": 3,
+  "max_out_degree": 3,
+  "min_breadcrumbs": 3,
+  "max_breadcrumbs": 3
+}
